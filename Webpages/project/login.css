@@ -1,0 +1,137 @@
+/*login*/
+.city-dropdown{
+    background-color: black;
+    color: wheat;
+    font-size: 20px;
+}
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 55PX;
+}
+.main-nav li{
+    
+    display: inline;
+    margin-left: 40px;
+}
+.main-nav li a:visited,
+.main-nav li a:link
+{
+   
+
+    color:wheat;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    border-bottom: 2px #c0392b transparent;
+
+}
+.main-nav li a:active,
+.main-nav li a:hover{
+    border-bottom: 2px solid #c0392b;
+    padding-top: 20px;
+    padding-bottom: 8px;
+
+
+    
+
+}
+section{
+    padding: 80px 0;
+
+}
+
+.row{
+    color:black;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.logo{
+    height: 100px;
+    float: lefts;
+    width: auto;
+    margin-top: 20PX;
+}
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: wheat;
+}
+
+.icon-big{
+    font-size: 600%;
+    display: block;
+    color: #c0392b;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+.details{
+    text-align: center;
+}
+.label{
+    padding-top: 5%;
+    font-size: 20px;
+
+}
+.inputt{
+
+    padding-bottom: 2%;
+    border-radius: 25px;
+    
+}
+#inputtt{
+    box-shadow: 5px 5px 5px 5px black;
+    padding: 5px;
+  border-radius:3px 3px  ;
+
+     width: 40%;
+    height: 20%; 
+background-color: white;
+border: solid whitesmoke;
+color:black;
+
+}
+.login{
+    padding-top: 1%;
+    border-radius: 50%;
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+.headingg{
+    text-align: center;
+  }
+.button{
+    text-align: center;
+    padding-bottom: 1%;
+     padding-top: 5%;
+}
+.checkbox{
+    padding-left: 35%;
+}
+
+#demo{
+
+background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)),url(./vendors/css/keyboard.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:660px;
+
+
+}
+.remember-me{
+ padding-left: 13%;
+}
+.login{
+
+    box-shadow: 10px 10px 20px 10px black;
+}
+hr {
+    border: 1px solid wheat;
+    border-radius: 5px;
+  }

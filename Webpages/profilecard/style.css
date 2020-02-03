@@ -1,0 +1,126 @@
+.main{
+   background:rgb(0, 0, 0);
+
+}
+
+.text:hover{
+   color: #000;
+
+}
+.head{
+   background:rgb(0, 0, 0);
+   background-image: url(wooden-bg-1024x570.jpg);
+  background-image: cross-fade();
+ }
+ .title{
+    color: rgb(255, 255, 255);
+   text-align: center
+ }
+ .details{
+    word-spacing: 100px;
+  border: 5px burlywood solid;
+    float: right;
+    margin-right: 40px;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+
+ }
+ .pic{
+    
+    
+    border: 2px black solid;
+    margin-bottom: 50px;
+   border-radius: 50%;
+   margin-left: 20px;
+ }
+ 
+ .content{
+
+   background: url(rm21-wood-ploy-29.jpg);
+    display: flex;
+   flex-direction: row;
+
+ }
+ .skillset{
+  
+   white-space: nowrap;
+ 
+ }
+ 
+
+
+ 
+ .project{
+   margin-right: 200px;
+
+ }
+ .skills{
+   font-weight: 900;
+   color: black;
+   
+    margin-top:none ;
+    margin-left: 20px;
+    width: 100px;
+    font-size: x-large;
+ }
+ .certificates{
+    
+   
+    width: 100px;
+    font-size: x-large;
+ }
+ .certificate{
+   font-weight: 900;
+   margin-top:none ;
+   margin-right: auto;
+   width: 100px;
+   font-size: x-large;
+
+ }
+ .project{
+   font-weight: 900;
+   margin: auto;
+   width:100px;
+   font-size: x-large;
+
+ }
+ .aboutme{
+   color: white;
+   background-image: url(wooden-bg-1024x570.jpg);
+    font-size: x-large;
+
+
+ }
+ .footers{
+    font-size: larger;
+    color: rgb(3, 3, 3);
+    background-image: url(rm21-wood-ploy-29.jpg)
+ }
+ .cdetails{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-size: x-large;
+
+
+ }
+ .footers>li{
+    display:-moz-inline-box;
+
+ }
+ .contact{
+    display: inline;
+    margin: 40px;
+    font-size: x-large;
+ }
+ .contact:hover{
+    color: rgb(211, 28, 28);
+ }
+ .a:hover{
+    color: chartreuse;
+ }
+
+ .test{
+    background-color: rgb(164, 142, 185);
+ }
+ 

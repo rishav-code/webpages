@@ -1,0 +1,89 @@
+div.main {
+    height: 100%;
+    width: 80%;
+  
+    background-color:skyblue ;
+    margin: auto;
+    
+    }
+    
+    
+    div.header{
+    
+    height:250px;
+    width: 1400px;
+    
+    }
+    
+    div.profile-img{
+        height:250px;
+        width: 400px;
+        float: left;
+      
+       box-shadow: navy;
+      
+        
+    
+    }
+    
+    div.profile-detail{
+        height:250px;
+        width: 900px;
+        float: right;
+       
+       
+      
+    
+    }
+    
+     div.profile-certificate{
+        height: 200px;
+        width: 1400px;
+        
+       
+       
+    
+    
+     }
+     div.profile-skill{
+    
+        height: 200px;
+        width: 1400px;
+        
+    
+        
+     }
+     div.profile-aboutus{
+    
+        height: 200px;
+        width: 1400px;
+        margin-top: 40px;
+       
+    
+    
+     }
+     .info{
+    
+    
+        color:navy;
+        margin-right: 10px;
+     }
+    
+    .skill-bar{
+    
+    background-color: navy;
+    border-radius: 16px;
+    
+    
+    }
+    .progress-bar{
+    
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    text-align: center;
+    color: navy;
+    background-color: navy;
+    
+    
+    
+    }
